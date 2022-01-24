@@ -3,6 +3,17 @@
 
 
 
+*NAME*
+Fian Rodrigues
+
+*NUID*
+001091872
+
+*EMAIL*
+rodrigues.f@northeastern.edu
+
+
+
 ### Assignment Number 1
 
 1. Install Git
@@ -18,14 +29,5 @@
 11. Use the assignment link created to push your new git repo.
 
 
-
-*NAME
-Fian Rodrigues
-
-*NUID
-001091872
-
-*EMAIL
-rodrigues.f@northeastern.edu
 
 #     
