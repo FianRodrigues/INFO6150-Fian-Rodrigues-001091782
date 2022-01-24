@@ -3,14 +3,14 @@
 
 
 
-*NAME: *
-Fian Rodrigues
+*NAME: 
+Fian Rodrigues*
 
-*NUID: *
-001091872
+*NUID: 
+001091872*
 
-*EMAIL: *
-rodrigues.f@northeastern.edu
+*EMAIL: 
+rodrigues.f@northeastern.edu*
 
 
 
